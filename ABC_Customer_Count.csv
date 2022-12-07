@@ -1,0 +1,17 @@
+﻿customer_size,customer_labels,count
+Enterprise,High Growth Customer,30
+Enterprise,Moderate Growth Customer,10
+Enterprise,Declining Customer,7
+Enterprise,Lost Customer,3
+Large,High Growth Customer,60
+Large,Moderate Growth Customer,25
+Large,Declining Customer,10
+Large,Lost Customer,5
+Medium,High Growth Customer,120
+Medium,Moderate Growth Customer,50
+Medium,Declining Customer,20
+Medium,Lost Customer,10
+Small,High Growth Customer,450
+Small,Moderate Growth Customer,150
+Small,Declining Customer,140
+Small,Lost Customer,60
